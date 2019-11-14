@@ -3,7 +3,6 @@
 In order to avoid the loss caused by defaulting on credit cards bill payment, the risk management on credit card default has been acting an imporant role in bank. Through the analysis of the user's personal profile and historical bills, we want find the reason why clients defalut on their July Statement and find the best model for predicting users' July Payment Status.
 
 ## 1. Data Cleaning and Redefine Value Labels
-
 ![Alt text](https://github.com/shasha09/Credit-risk-analysis/blob/master/PNG/1.Assumption-age.png)
 ![Alt text](https://github.com/shasha09/Credit-risk-analysis/blob/master/PNG/2.Redefine%20Value%20Labels%20-%20Sex.png)
 ![Alt text](https://github.com/shasha09/Credit-risk-analysis/blob/master/PNG/3.Redefine%20Value%20Labels%20-%20Education.png)
@@ -14,7 +13,6 @@ In order to avoid the loss caused by defaulting on credit cards bill payment, th
 ![Alt text](https://github.com/shasha09/Credit-risk-analysis/blob/master/PNG/6.Data%20Standardization.png)
 
 ## 3. Data Analysis
-
 ![Alt text](https://github.com/shasha09/Credit-risk-analysis/blob/master/PNG/7.Correlation.png)
 
 ![Alt text](https://github.com/shasha09/Credit-risk-analysis/blob/master/PNG/8.Age.png)
